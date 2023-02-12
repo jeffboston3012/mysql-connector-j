@@ -1,6 +1,7 @@
 # MySQL Connector/J
 
 [![GitHub top language](https://img.shields.io/github/languages/top/mysql/mysql-connector-j?label=Java&color=5382a1)](https://github.com/mysql/mysql-connector-j/tree/release/8.0/src) [![License: GPLv2 with FOSS exception](https://img.shields.io/badge/License-GPLv2_with_FOSS_exception-c30014.svg)](LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/com.mysql/mysql-connector-j?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.mysql%22%20AND%20a:%22mysql-connector-j%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffboston3012%2Fmysql-connector-j.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffboston3012%2Fmysql-connector-j?ref=badge_shield)
 
 MySQL provides connectivity for client applications developed in the Java programming language with MySQL Connector/J, a driver that implements the [Java Database Connectivity (JDBC) API](https://www.oracle.com/technetwork/java/javase/jdbc/) and also [MySQL X DevAPI](https://dev.mysql.com/doc/x-devapi-userguide/en/).
 
@@ -13,6 +14,9 @@ For more information, please visit the official [MySQL Connector/J documentation
 ## Licensing
 
 Please refer to the [README](README) and [LICENSE](LICENSE) files, available in this repository, and the [Legal Notices in the MySQL Connector/J documentation](https://dev.mysql.com/doc/connector-j/8.0/en/preface.html) for further details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffboston3012%2Fmysql-connector-j.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffboston3012%2Fmysql-connector-j?ref=badge_large)
 
 ## Getting the Latest Release
 
